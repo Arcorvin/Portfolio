@@ -10,7 +10,7 @@ colors for my pages
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #0D0D0D;
+  background-color: #0d0d0d;
 }
 
 html,
@@ -63,14 +63,14 @@ p {
 
 p {
   font-family: Lato;
-  color: #27F2CD;
+  color: #27f2cd;
 }
 
-.info-in{
+.info-in {
   font-family: Lat;
-  color: #27F2CD;
+  color: #27f2cd;
   font-size: 25px;
-  margin-left:600px;
+  margin-left: 600px;
 }
 
 nav {
@@ -82,7 +82,7 @@ nav {
 }
 
 nav .links a.active {
-  color: #5BD9CC;
+  color: #5bd9cc;
   font-style: italic;
   font-family: LatIt;
 }
@@ -90,36 +90,36 @@ nav .links a.active {
 nav .links a {
   padding-right: 50px;
   text-decoration: none;
-  color: #27F2CD;
+  color: #27f2cd;
   font-size: 30px;
   font-family: Lat;
 }
 
 nav .links a:hover {
-  color: #5BD9CC;
+  color: #5bd9cc;
 }
 
 nav .logo {
-  color: #27F2CD;
+  color: #27f2cd;
   font-size: 30px;
   font-family: Lat;
 }
- .lin a.active  {
-  color: #5BD9CC;
+.lin a.active {
+  color: #5bd9cc;
   font-style: italic;
   font-family: LatIt;
 }
 
-.lin a  {
+.lin a {
   padding-right: 50px;
   text-decoration: none;
-  color: #27F2CD;
+  color: #27f2cd;
   font-size: 30px;
   font-family: Lat;
 }
 
- .lin a:hover {
-  color: #5BD9CC;
+.lin a:hover {
+  color: #5bd9cc;
 }
 
 .content-wrapper {
@@ -157,7 +157,7 @@ nav .logo {
 }
 
 .title-desc h4 {
-  color: #5BD9CC;
+  color: #5bd9cc;
   font-size: 30px;
   font-family: LatoThinIt;
   margin-bottom: 35px;
@@ -172,7 +172,7 @@ nav .logo {
 }
 
 .contact-form span {
-  color: #27F2CD;
+  color: #27f2cd;
 }
 
 .contact-form label {
@@ -188,14 +188,14 @@ nav .logo {
   width: 1014px;
   margin-top: 20px;
   margin-bottom: 50px;
-  border: 3px solid #27F2CD;
+  border: 3px solid #27f2cd;
   padding-left: 20px;
   font-size: 20px;
 }
 
 .contact-form .submit-but {
-  background-color: #27F2CD;
-  color: #0D0D0D;
+  background-color: #27f2cd;
+  color: #0d0d0d;
   width: 246px;
   margin: 0 auto;
   border-radius: 38px;
@@ -208,13 +208,12 @@ nav .logo {
 .image-title-desc {
   display: flex;
   margin-bottom: 50px;
-  
 }
 
 .image-title-desc .image-holder {
   height: 224px;
   width: 224px;
-  
+
   border-radius: 50%;
   margin-right: 50px;
 }
@@ -229,7 +228,6 @@ nav .logo {
 .image-title-desc .image-holder img {
   width: 100%;
   height: auto;
-  
 }
 
 .image-title-desc .image-hold img {
@@ -237,26 +235,32 @@ nav .logo {
   height: auto;
 }
 
-.liin{
-  color: #27F2CD;
-  font-family: Lat ;
+.liin {
+  color: #27f2cd;
+  font-family: Lat;
   font-size: 30px;
+  margin-left: 90px;
 }
 
+.liiin {
+  color: #27f2cd;
+  font-family: Lat;
+  font-size: 30px;
+  margin-left: 180px;
+}
 
 footer {
   height: 165px;
   max-width: 1920px;
-  background-color: #0D0D0D;
+  background-color: #0d0d0d;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 60px;
- 
 }
 
 footer p {
   font-size: 30px;
   font-family: LatThin;
-   color: #27F2CD;
+  color: #27f2cd;
 }
